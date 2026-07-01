@@ -1,0 +1,38 @@
+# Virtual Environment
+medico_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# Streamlit Cache
+.streamlit/
+
+# Database & Vector Stores
+database/
+*.db
+*.sqlite3
+*.faiss
+*.pkl
+
+# ChromaDB
+chroma_db/
+chroma/
+
+# Uploaded PDFs
+data/
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
